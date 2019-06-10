@@ -1,0 +1,14 @@
+{
+  "name": "node-email",
+  "version": "1.0.0",
+  "description": "Send emails using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nilesh Patva (nileshpatva40@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.2.1"
+  }
+}
